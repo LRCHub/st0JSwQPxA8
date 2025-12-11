@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "切望 (AA1)",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-11T14:00:44.486008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "切望",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_切望_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "切望",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_切望_SUPER_BEAVER.txt"
+    }
+  ]
+}
